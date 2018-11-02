@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Had nápovìda.chm
+Contents file=Ovládání.hhc
+Default topic=Autor.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x405 Èeština (Èeská republika)
+Title=Ovládání
+
+
+[FILES]
+Autor.htm
+Cíl hry.htm
+Ovládání.htm
+
+[INFOTYPES]
+
